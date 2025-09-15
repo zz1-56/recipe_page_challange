@@ -100,7 +100,7 @@ img {
     font-size:small;
     
 
-    white-space: pre-line;
+    white-space: nowrap;
     padding-bottom: 20px;
 }
 .img_content h1 , p {
